@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuebraCucaDiamente.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a063ef33fd399c177193a14ef933876a01d4718a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c447a413b18da22433d6e1eb3a9a447b40d03f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuebraCucaDiamente.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuebraCucaDiamente.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
