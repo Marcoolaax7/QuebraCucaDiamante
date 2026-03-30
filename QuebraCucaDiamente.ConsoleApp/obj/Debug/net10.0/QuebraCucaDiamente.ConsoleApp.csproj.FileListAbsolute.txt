@@ -1,0 +1,14 @@
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\bin\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.exe
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\bin\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.deps.json
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\bin\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.runtimeconfig.json
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\bin\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\bin\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.pdb
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\refint\QuebraCucaDiamente.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.pdb
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\QuebraCucaDiamente.ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Documents\academia 2026\QuebraCucaDiamante\QuebraCucaDiamente.ConsoleApp\obj\Debug\net10.0\ref\QuebraCucaDiamente.ConsoleApp.dll
